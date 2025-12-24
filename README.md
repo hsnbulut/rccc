@@ -1,4 +1,4 @@
-# rccc
+# rccc: robust concordance correlation coefficent
 
 This repository provides reproducibility materials for the manuscript:
 
